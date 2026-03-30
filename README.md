@@ -9,4 +9,4 @@ The dataset, also known as the Berka dataset contains anonymised transactional d
   
   Analyse the bank's loan book, the distribution of loan sizes, durations, repayment statuses, and the profile of borrowers. 
 
-I analysed the dataset on SQL and presented my finindings on a PowerPoint report
+I analysed the dataset on SQL and presented my findings on PowerPoint
