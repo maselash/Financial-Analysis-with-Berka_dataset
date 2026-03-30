@@ -1,7 +1,7 @@
 This was a personal project I designed to showcase my financial analytical skills. I analysed a real-world banking dataset from Czech Bank. 
 The dataset, also known as the Berka dataset contains anonymised transactional data from 1993 to 1999, including over 1 million transactions, 5,369 clients, and 682 loans across 77 districts.
 
-The project focused on meeting the following objectives:
+**The project focused on meeting the following objectives:**
   
   Understand who are Czech Bank’s customers; their demographics, location and account types
   
