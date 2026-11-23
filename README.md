@@ -13,3 +13,15 @@ How can Czech Bank grow its lending book without increasing credit losses, and w
   - Analyse the bank's loan book, the distribution of loan sizes, durations, repayment statuses, and the profile of borrowers. 
   
   - I analysed the dataset on SQL and presented my findings on PowerPoint
+
+**Reccomendations:**
+
+- Tier lending by size and instalment burden. Apply standard approval below 200K. Above it, require an affordability check and added security. Cap instalments relative to monthly inflow, with the threshold set by back-testing.
+
+- Grow first among existing relationships. Offer pre-approved moderate loans to the ~720 card-only accounts, and pilot cards for loan-only customers as a controlled test.
+
+- Prioritise Prague, then the larger, higher-salary districts. Use a scorecard of penetration per 1,000 inhabitants, salary, unemployment and sample size, and avoid judging districts on small loan counts.
+  
+- Treat weekly-statement clients as a relationship segment. Offer cards and savings first, and lend once balances and income are verified.
+
+- Time credit decisions to the seasonal cycle. Avoid large limit increases before the December-January peak, and focus early collections on the ~6.5% of loans running behind.
