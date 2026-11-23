@@ -14,7 +14,7 @@ How can Czech Bank grow its lending book without increasing credit losses, and w
   
   - I analysed the dataset on SQL and presented my findings on PowerPoint
 
-**Reccomendations:**
+**Recommendations after analysis:**
 
 - Tier lending by size and instalment burden. Apply standard approval below 200K. Above it, require an affordability check and added security. Cap instalments relative to monthly inflow, with the threshold set by back-testing.
 
